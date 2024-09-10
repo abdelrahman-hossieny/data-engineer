@@ -1,7 +1,10 @@
 # data-engineer
-data engineering projects 
-#project one : CSV Data Analysis Project.
-  Summary 1: Analyzing CSV Data Reading Data: Data was read from CSV file using pandas library.
+
+##data engineering projects 
+
+###project one : CSV Data Analysis Project.
+
+  Analyzing CSV Data Reading Data: Data was read from CSV file using pandas library.
   Contains: Rows with missing data were removed.
   Date was converted to date data type using specific column.
   Performed additional calculations: Total p3 * p4 was calculated and show us the result.
