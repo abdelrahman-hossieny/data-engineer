@@ -27,4 +27,3 @@ This project involves analyzing CSV data using Python libraries such as pandas a
 
 ---
 
-Feel free to explore the code and try out the analysis yourself!
