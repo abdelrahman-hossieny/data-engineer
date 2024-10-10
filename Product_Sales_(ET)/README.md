@@ -1,4 +1,4 @@
-# Project:product sales (extract & transform) CSV Data
+# Project: product sales (extract & transform) CSV Data
   This project involves analyzing CSV data using Python libraries such as pandas and matplotlib. Below are the main steps and highlights of the project:
 
 #### 1. Reading Data
